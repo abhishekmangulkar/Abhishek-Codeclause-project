@@ -6,3 +6,7 @@ the Allocated projects are:
 The Golden Projects are:
 3)Speed Typing Test in Python
 4)Mail Application with GUI
+
+
+
+IDE used : pycharm
