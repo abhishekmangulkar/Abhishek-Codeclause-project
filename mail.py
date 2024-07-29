@@ -3,6 +3,7 @@ import smtplib, ssl
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
+#mail code
 class MailApp:
     def _init_(self, master):
         self.master = master
